@@ -1,0 +1,17 @@
+1. What is Big Data?
+Ans: Big Data is the collection of large amount of data like data size in TeraByte,PicoBytes,ZettoBytes.or any data set which is not very large 
+but very complex then it comes under Big Data.
+
+2. What is Various piller of Big data?
+Ans: Big Bata defines using various V's 
+       a. Volume
+       b. Velocity
+       c. Variety
+       d. Veracity
+       e. Value
+       f. Vernability
+       g. Viscosity
+       h. Visualization
+       
+3. What is tools to solve the Big Data problem?
+Ans: Big Data problem solve using Hadoop Ecosystem which is open source. 
